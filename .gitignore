@@ -1,0 +1,19 @@
+# Go build and test artifacts
+bin/
+*.test
+*.out
+*.log
+coverage.txt
+
+# Dependency directories
+vendor/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.swp
